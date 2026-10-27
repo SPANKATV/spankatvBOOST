@@ -6,10 +6,12 @@ Companheiro para AION 2 com interface SPANKATV, medidores, acompanhamento de col
 
 Baixe o instalador da versão mais recente em **Releases**. Encerre o aplicativo antes de atualizar. O instalador verifica a integridade dos arquivos e preserva os perfis no AppData.
 
-Quem usa a 0.5.1 precisa instalar a 0.5.2 manualmente uma vez. Depois, o botão **Atualizações** verifica as releases deste repositório, mostra as notas e permite baixar e instalar novas versões. O canal é `SPANKATV/spankatvBOOST`.
+Quem usa a 0.5.1 precisa instalar a versão mais recente manualmente uma vez. Depois, o botão **Atualizações** verifica as releases deste repositório, mostra as notas e permite baixar e instalar novas versões. O canal é `SPANKATV/spankatvBOOST`.
 
-## Notas da 0.5.2
+## Destaques da 0.5.3
 
+- Logo própria no botão de controles, com barras de título azul-marinho e ciano.
+- Atualizações com ações claras para verificar, baixar e instalar; canal em Opções avançadas.
 - Gerenciador de Tarefas: processo principal e subprocessos identificados como **spankatvBOOST**.
 - Capturador identificado como **spankatvBOOST Áudio**.
 - Painel de notas de correção e atualizações pelo GitHub Releases.
@@ -27,3 +29,4 @@ Adaptação local do a2finder por julusi, sob **GPL-3.0-only**, com módulos pr�
 NAudio 1.10.0, Mark Heath e contribuidores, sob Microsoft Public License, é usado pelo capturador separado de áudio. Electron e demais componentes mantêm suas licenças originais. O aplicativo não é um produto oficial da NCSOFT.
 
 Não executa caminhada automática nem missões completas. O módulo local de combate é experimental e inicia em simulação. Dados fictícios de testes não são apresentados como dados ao vivo.
+
