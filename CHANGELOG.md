@@ -8,7 +8,7 @@
 
 ## Migração
 
-Quem usa a 0.5.1 precisa instalar esta versão uma vez manualmente para receber o novo canal. O repositório GitHub ainda precisa ser criado e configurado. Sem release publicada e canal configurado, nenhum aviso remoto de atualização será emitido.
+Quem usa a 0.5.1 precisa instalar esta versão uma vez manualmente para receber o novo canal. O canal oficial é SPANKATV/spankatvBOOST no GitHub Releases. A versão verifica esse canal na abertura e a cada seis horas; quando houver uma versão superior, o app mostra o aviso e as notas de correção.
 
 ## Correções de áudio incluídas da 0.5.1
 
@@ -16,3 +16,4 @@ Quem usa a 0.5.1 precisa instalar esta versão uma vez manualmente para receber 
 - Escuta contínua, prévia de 45 segundos e teste de notificação.
 - Notificação sobre o jogo sem roubar foco, além dos avisos internos e do Windows.
 - Hidden Cubes mantém seu minimapa separado; o restante do mapa não foi alterado.
+
